@@ -1,0 +1,16 @@
+{
+    "name": "my-web3-app",
+    "version": "1.0.0",
+    "description": "A Web3Modal integration example",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "@web3modal/ethereum": "^2.0.0",
+      "@wagmi/core": "^0.1.0",
+      "ethers": "^5.4.0",
+      "express": "^4.17.1"
+    }
+  }
+  
